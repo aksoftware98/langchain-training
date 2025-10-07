@@ -3,4 +3,5 @@ langchain-core
 langchain-text-splitters
 langchain[openai,azure]
 chromadb
+gradio
 python-dotenv
