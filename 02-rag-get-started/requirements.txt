@@ -4,4 +4,6 @@ langchain-text-splitters
 langchain[openai,azure]
 chromadb
 gradio
+pypdf
+pydantic
 python-dotenv
